@@ -1,1 +1,1 @@
-# uml-paradigms-Favour
+# uml-paradigms-Favout
