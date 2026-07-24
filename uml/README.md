@@ -10,4 +10,4 @@
     This diagram shows the order of communication between objects when  a member borrows a book.
 
 ## State Machine Diagram
-    This diagram shows the different states of a book copy, such as available, reserve, borrowed, and lost.       
+    This diagram shows the different states of a book copy, such as available, reserve, borrowed, and lost.      
