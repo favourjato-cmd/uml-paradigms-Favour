@@ -1,2 +1,2 @@
-# uml-paradigms-Favourr
+# uml-paradigms-Favour
 fghjkmn
